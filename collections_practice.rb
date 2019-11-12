@@ -42,7 +42,8 @@ def find_a(strings)
 end
 
 # adds integers in an array and returns sum
-def sum_array
+def sum_array(integers)
+  intergers.inject 
   
 end
 
