@@ -1,12 +1,14 @@
+#sorts an array in asc order
 def sort_array_asc(array)
   array.sort
 end
 
+# sorts an array in desc order
 def sort_array_desc(array)
   array.sort {|x, y| y <=> x}
 end
 
-def sort_array_char_count
+def sort_array_char_count(array)
   
 end
 
