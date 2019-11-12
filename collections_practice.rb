@@ -49,6 +49,12 @@ end
 
 # add s to strings except index 1
 def add_s
-  
+    array.each_with_index.collect do |string, index|
+    if index == 1
+      string
+    else
+      string << "s"
+    end
+  end
 end
 
