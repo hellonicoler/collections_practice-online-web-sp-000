@@ -10,7 +10,7 @@ end
 
 # sorts an array; takes strings and returns asc by length
 def sort_array_char_count(array)
-  
+  array.sort {|left, right| left.length <=> right.length}
 end
 
 def swap_elements
