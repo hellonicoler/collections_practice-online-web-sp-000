@@ -25,7 +25,8 @@ def reverse_array(integers)
   reversed
 end
 
-def kesha_maker
+# replace third character in a string with $
+def kesha_maker(array)
   
 end
 
