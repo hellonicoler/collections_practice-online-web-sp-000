@@ -13,7 +13,7 @@ def sort_array_char_count(array)
   array.sort {|left, right| left.length <=> right.length}
 end
 
-# 
+# takes an array, swaps 2nd + 3rd  elements
 def swap_elements
   
 end
