@@ -47,6 +47,7 @@ def sum_array(integers)
   
 end
 
+# add s to strings except index 1
 def add_s
   
 end
