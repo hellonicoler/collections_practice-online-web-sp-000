@@ -36,6 +36,11 @@ def kesha_maker(array)
   kesha
 end
 
+# finds strings starting with a
+def find_a(strings)
+  strings.start_with? {"a"}
+end
+
 def sum_array
   
 end
