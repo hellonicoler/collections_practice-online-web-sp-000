@@ -15,7 +15,8 @@ end
 
 # takes an array, swaps 2nd + 3rd  elements
 def swap_elements
-  
+    strings[1], strings[2] = strings[2], strings[1]
+  return strings
 end
 
 def reverse_array
