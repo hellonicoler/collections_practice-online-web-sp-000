@@ -49,11 +49,11 @@ end
 
 # add s to strings except index 1
 def add_s(array)
-    array.each_with_index.collect do |string, index|
+    array.each_with_index.collect do |element, index|
     if index == 1
-      string
+      element
     else
-      string << "s"
+      element << "s"
     end
   end
 end
