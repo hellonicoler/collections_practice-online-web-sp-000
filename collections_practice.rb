@@ -21,7 +21,7 @@ end
 
 # takes integers and returns array in reverse
 def reverse_array(integers)
-  integers
+  reversed = integers.
 end
 
 def kesha_maker
