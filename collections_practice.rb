@@ -1,4 +1,4 @@
-#sorts an array in asc order
+# sorts an array in asc order
 def sort_array_asc(array)
   array.sort
 end
@@ -20,8 +20,8 @@ def swap_elements(elem)
 end
 
 # takes integers and returns array in reverse
-def reverse_array
-  
+def reverse_array(integers)
+  integers
 end
 
 def kesha_maker
