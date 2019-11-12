@@ -8,6 +8,7 @@ def sort_array_desc(array)
   array.sort {|x, y| y <=> x}
 end
 
+# sorts an array; takes strings and returns asc by length
 def sort_array_char_count(array)
   
 end
