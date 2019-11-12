@@ -43,7 +43,7 @@ end
 
 # adds integers in an array and returns sum
 def sum_array(integers)
-  intergers.inject {|sum, num| sum + num}
+  integers.inject {|sum, num| sum + num}
   
 end
 
