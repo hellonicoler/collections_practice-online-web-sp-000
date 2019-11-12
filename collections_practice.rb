@@ -41,6 +41,7 @@ def find_a(strings)
   strings.select {|string| string.start_with?("a")}
 end
 
+# adds integers in an array and returns sum
 def sum_array
   
 end
