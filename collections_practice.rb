@@ -19,6 +19,7 @@ def swap_elements(elem)
   return elem
 end
 
+# takes integers and returns array in reverse
 def reverse_array
   
 end
